@@ -42,11 +42,11 @@ Financial Stickiness: MRR (Monthly Recurring Revenue) and history of plan upgrad
 
 ![Financial Insights](images/financial.png)
 
-![Firmographic Insights](firmographic_analysis.png)
+![Firmographic Insights](images/firmographic_analysis.png)
 
 ![Product Usage Insights](images/product_usage.png)
 
-##Key Insights from EDA
+## Key Insights from EDA
 
 Through visualization, several critical business patterns were discovered:
 
