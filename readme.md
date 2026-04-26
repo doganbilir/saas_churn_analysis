@@ -12,6 +12,7 @@ Customer churn is a critical metric for SaaS businesses. This project aims to an
 - **Version Control:** Git & GitHub
 
 ## 📂 Project Structure
+
 ```text
 saas_data_analysis/
 │
@@ -26,6 +27,7 @@ saas_data_analysis/
 │   └── 04_modeling.ipynb    # ML experiments (Baseline vs. Advanced)
 │
 └── README.md
+```
 
 ## Data Engineering & Features
 Combined multiple data sources (Accounts, Subscriptions, Feature Usage, Support Tickets) to create a Master Feature Table. Key engineered features include:
